@@ -1,15 +1,15 @@
-### 19/02/2023
+### 13/10/2024
 
 This is fork of [darryldecode/laravelshoppingcart](https://github.com/darryldecode/laravelshoppingcart), with the following enhancements:
 
-- Laravel 10 support
+- Laravel 11 support
 - Fix tests
 - Add GitHub workflow
 
 To install this repository simply run: `composer require ultrono/laravelshoppingcart-1`
 
 
-# Laravel 5 & 6, 8, 9 & 10 Shopping Cart
+# Laravel 5 & 6, 8, 9 , 10, 11 Shopping Cart
 [![Latest Stable Version](https://poser.pugx.org/f9webltd/laravel-meta/v)](https://packagist.org/packages/ultrono/laravelshoppingcart-1)
 [![Build Status](https://travis-ci.org/darryldecode/laravelshoppingcart.svg?branch=master)](https://travis-ci.org/darryldecode/laravelshoppingcart)
 [![Total Downloads](https://poser.pugx.org/darryldecode/cart/d/total.svg)](https://packagist.org/packages/darryldecode/cart)
@@ -33,7 +33,7 @@ For Laravel 5.1~:
 For Laravel 5.5, 5.6, or 5.7~:
 
 ```composer require "darryldecode/cart:~4.0"``` or 
-```composer require "darryldecode/cart"```
+```composer require "andryshok/laravelshoppingcart"```
 
 ## CONFIGURATION
 
